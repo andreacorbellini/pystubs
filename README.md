@@ -64,6 +64,15 @@ This approach can be very useful in unit testing, to make tests cases
 shorter and easier to understand.
 
 
+# Installation
+
+PyStubs has no external dependencies. To install it:
+
+```shell
+$ pip install pystubs
+```
+
+
 ## List of stubs
 
 **Generics:**
